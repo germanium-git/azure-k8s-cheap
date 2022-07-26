@@ -1,0 +1,5 @@
+tf/.terraform
+tf/.terraform.*
+!tf/.terraform.lock.hcl
+tf/terraform.tfvars
+k8s_config
